@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arctical</h1>
-<h3 align="center">A curious backend scripter who likes to test random things, and then get excited when they do.</h3>
+<h3 align="center">I love lua.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarctical&label=Profile%20views&color=0e75b6&style=flat" alt="aarctical" /> </p>
 
